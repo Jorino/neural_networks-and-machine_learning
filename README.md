@@ -14,6 +14,6 @@ Case 3:
 
 ## Various machine learning projects
 
-
+Clustering, Decision tree, Linear regression, Logistic Regression and Recommendation engine folders are small projects utilizing different methods of machine learning.
 
 
